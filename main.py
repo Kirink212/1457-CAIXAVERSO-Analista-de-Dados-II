@@ -1,0 +1,1 @@
+print("Luís é o melhor professor da face do planeta Terrra!")
